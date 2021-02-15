@@ -1,1 +1,1 @@
-# Hate_Speach_Detection
+# Hate_Speech_Detection
