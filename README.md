@@ -9,7 +9,7 @@ We analyzed and trained three machine learning models, the first one is the [bid
 All the models have a [notebook](https://github.com/GiovanniSorice/Hate_Speech_Detection/tree/main/notebooks) that can be runned on Google Colab, to speed up the computation required for the training and inference phase it is suggested to change the runtime type to GPU. 
 
 ## Results 
-The learning and the f1 score plots obtained during the training of the models are shown below. 
+The learning and the f1 score plots obtained during the training of the models are shown below (in order CNN, BILSTM and AlBERTo). 
 
 
 <img src="docs/img/training_loss_cnn_curves.png" width="300"/> <img src="docs/img/f1_score_cnn_curves.png" width="300" />
